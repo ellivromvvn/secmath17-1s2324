@@ -21,3 +21,7 @@ To `install` the tidyverse package use the code: `install.packages("tidyverse").
 # loading the tidyverse package
 library(tidyverse)
 ```
+
+We also installed other packages by typing in the console the following code:
+
+`install.packages(c("arrow", "babynames", "curl", "duckdb", "gapminder", "ggrepel", "ggridges", "ggthemes", "hexbin", "janitor", "Lahman", "leaflet", "maps", "nycflights13", "openxlsx", "palmerpenguins", "repurrrsive", "tidymodels", "writexl"))`
