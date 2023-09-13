@@ -12,3 +12,12 @@ editor: visual
 Review the pipeline because sir will make it a part of our exam.
 
 ![Pipeline](r4dspics/r4dspic1.png)
+
+## The Tidyverse
+
+To `install` the tidyverse package use the code: `install.packages("tidyverse").`
+
+```{r}
+# loading the tidyverse package
+library(tidyverse)
+```
